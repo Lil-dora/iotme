@@ -1,0 +1,4 @@
+npx create-react-app client
+npm i react-router-dom //react routing library
+npm install antd //ui library
+npm install --save @ant-design/icons //icon library
